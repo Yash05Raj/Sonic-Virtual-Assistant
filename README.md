@@ -176,16 +176,6 @@ text_speak.volume = 1;    // Volume (0 - 1.0)
 text_speak.lang = "en-GB"; // Language
 ```
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## Troubleshooting
 
 ### Microphone not working
@@ -217,7 +207,6 @@ Contributions are welcome! To contribute:
 
 **Yash Raj**
 - GitHub: [@Yash05Raj](https://github.com/Yash05Raj)
-- Portfolio: [Portfolio_Main](https://github.com/Yash05Raj/Portfolio_Main)
 
 ## License
 
@@ -229,9 +218,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Web Speech API documentation
 - Inspiration from modern virtual assistants
 - Community feedback and contributions
-
----
-
-**Made with ❤️ by Yash Raj**
 
 For questions or support, please open an issue on GitHub.
