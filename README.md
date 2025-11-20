@@ -219,4 +219,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspiration from modern virtual assistants
 - Community feedback and contributions
 
+<<<<<<< HEAD
+=======
+---
+
+>>>>>>> 9aa540079cd3c48e1ae5c7d385daa6486b37394b
 For questions or support, please open an issue on GitHub.
