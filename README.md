@@ -7,11 +7,17 @@ A modern, web-based virtual assistant with voice recognition and speech synthesi
 ## Features
 
 - 🎤 **Voice Recognition** - Speech-to-text using Web Speech API
-- 🔊 **Speech Synthesis** - Natural text-to-speech responses
-- 🎨 **Modern UI** - Sleek gradient interface with animations
-- 📱 **Responsive Design** - Works on desktop and tablet devices
+- 🔊 **Speech Synthesis** - Natural text-to-speech responses with customizable settings
+- 🎨 **Modern UI** - Sleek gradient interface with glassmorphic design and animations
+- 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - ✨ **Visual Feedback** - Real-time animations during voice interaction
 - 🌐 **Web-Based** - No installation required, runs in your browser
+- 📜 **Conversation History** - Tracks and displays your recent conversations
+- 💡 **Command Suggestions** - Quick-access buttons for common commands
+- ⚙️ **Voice Settings** - Customize speech rate, pitch, and volume
+- 🎭 **Theme Toggle** - Switch between dark and light modes
+- ⌨️ **Keyboard Shortcuts** - Efficient navigation with hotkeys
+- 💾 **Persistent Storage** - Saves your preferences and history locally
 
 ## Technologies Used
 
@@ -48,9 +54,21 @@ A modern, web-based virtual assistant with voice recognition and speech synthesi
 
 ## Usage
 
-1. Click the blue interaction button to activate voice recognition
+1. Click the blue interaction button (or press `Space`) to activate voice recognition
 2. Speak your command clearly
 3. Sonic will process and respond with text and voice
+4. View your conversation history by clicking the history icon or pressing `Ctrl+H`
+5. Customize voice settings by clicking the settings icon or pressing `Ctrl+,`
+6. Toggle between dark and light themes using the theme button
+
+### Keyboard Shortcuts
+
+| Shortcut | Action |
+|----------|--------|
+| `Space` | Activate voice recognition |
+| `Esc` | Cancel listening / Close panels |
+| `Ctrl+H` | Toggle conversation history |
+| `Ctrl+,` | Open settings panel |
 
 ### Example Commands
 
@@ -60,6 +78,30 @@ A modern, web-based virtual assistant with voice recognition and speech synthesi
 - "Open Google/YouTube" - Navigate to websites
 - "What time is it" - Get current time
 - "Tell me a joke" - Hear a joke
+
+## New Features
+
+### Conversation History
+- Automatically saves all your conversations
+- View past commands and responses
+- Clear history anytime
+- Persists across browser sessions
+
+### Voice Settings
+- Adjust speech rate (0.5x - 2x)
+- Customize pitch (0.5 - 2.0)
+- Control volume (0% - 100%)
+- Reset to defaults with one click
+
+### Theme Toggle
+- Switch between dark and light modes
+- Preference saved automatically
+- Smooth transitions between themes
+
+### Command Suggestions
+- Quick-access buttons for common commands
+- Click any suggestion to execute instantly
+- Perfect for new users
 
 ## Project Structure
 
